@@ -1,1 +1,1 @@
-Ceci est un fichier texte.
+Ceci est un fichier texte qui pour l'instant ne vaut pas grand chose.
